@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEPROM_Gen", "EEPROM_Gen.csproj", "{49A0439B-98D4-41AB-AF38-7662FDFC85D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A0439B-98D4-41AB-AF38-7662FDFC85D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A0439B-98D4-41AB-AF38-7662FDFC85D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A0439B-98D4-41AB-AF38-7662FDFC85D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A0439B-98D4-41AB-AF38-7662FDFC85D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4738D69-386C-4AFF-9C33-08CEB3A3A10D}
+	EndGlobalSection
+EndGlobal
